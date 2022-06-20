@@ -1,11 +1,5 @@
-## ItChat!
-#### Chat, voice and video platform.
-
-### Keys to use itchat
-- 🆓 Completely Free
-- 👥 Open Source
-- 🔒 Secure as possible
-- 👀 Privacy respect
+<h2 align="center">ItChat, The Next Generation of Freedom</h2>
+<h4 align="center">Chat, voice and streaming platform</h4>
 
 
 <div align="center">
