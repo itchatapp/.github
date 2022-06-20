@@ -1,5 +1,5 @@
 <h2 align="center">ItChat, The Next Generation of Freedom</h2>
-<h3 align="center">Chat, voice and streaming platform</h3>
+<h4 align="center">Chat, voice and streaming platform</h4>
 
 ### 📖 About
 ItChat started as a dream to replace the existing evils of popular platforms such as discord, slack and guilded.</br>
